@@ -6,4 +6,4 @@ docker run -d \
   -p 25565:25565 \
   -v /home/ryea/mcserver:/data \
   --restart=always \
-  itzg/minecraft-server
+  itzg/minecraft-server:stable
